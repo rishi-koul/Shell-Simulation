@@ -1,0 +1,9 @@
+Class name: History
+Parent Class: Commands
+Subclasses: None
+
+Responsibilities: 
+*Prints recent commands
+
+Collaborators:
+*None

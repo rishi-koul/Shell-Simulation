@@ -1,0 +1,11 @@
+What did I work on in the last three days?
+    - fixed additional errors
+    - worked on List
+
+What do I plan to work in the next three days?
+    - Finalizing List
+    - Checking additional errors
+    - Learn JavaDoc and implement it
+
+Am I blocked on anything?
+    - None

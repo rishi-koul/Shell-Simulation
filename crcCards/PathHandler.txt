@@ -1,0 +1,10 @@
+Class name: PathHandler
+Parent Class: None
+Subclasses: None
+
+Responsibilities: 
+*Handles Path
+
+Collaborators:
+*FileSystem
+*Directory

@@ -1,0 +1,11 @@
+What did I work on in the last three days?
+    - Made Commands collaborate with JShell
+    - Decided a tentative plan on how Commands may look 
+
+What do I plan to work in the next three days?
+    - Add on to the Commands skeleton code I have created 
+    - Validate user input 
+    - Find a design to incorporate Man in all classes 
+
+Am I blocked on anything?
+    - How to give errors/ which errors to account for in each command?

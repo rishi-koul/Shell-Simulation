@@ -1,0 +1,12 @@
+What did I work on in the last three days?
+    - fixed errors in tree command
+    - fixed errors in list command
+    - started working on search
+    - adjusted all code according to new design
+    
+What do I plan to work in the next three days?
+    - finishing search command
+    - Testing files
+
+Am I blocked on anything?
+    - Time management

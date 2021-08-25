@@ -1,0 +1,9 @@
+Class name: File
+Parent Class: None
+Subclasses: None
+
+Responsibilities: 
+*Organizes a file
+
+Collaborators:
+*None

@@ -1,0 +1,12 @@
+What did I work on in the last three days?
+    - Wrote code for File class 
+    - Wrote code for Directory Class
+    - Wrote code for FileSystem Class
+
+What do I plan to work in the next three days?
+    - Continuously update the update the Directory, File, FileSystem Class if needed
+    - Write code for PrintWorkingDirectory, MakeDirectory, Popd and Pushd Class
+
+Am I blocked on anything?
+    - Don't understand the complete use of FileSystem Class, feel really similar to Directory Class
+    

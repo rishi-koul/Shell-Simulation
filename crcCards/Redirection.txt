@@ -1,0 +1,11 @@
+Class name: Redirection
+Parent Class: None
+Subclasses: None
+
+Responsibilities: 
+*Adds the standard output of a class to a file
+
+Collaborators:
+*FileSystem
+*Directory
+*File

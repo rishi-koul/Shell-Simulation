@@ -1,0 +1,9 @@
+Class name: Exit
+Parent Class: Commands
+Subclasses: None
+
+Responsibilities: 
+*Exits Jshell
+
+Collaborators:
+*Jshell

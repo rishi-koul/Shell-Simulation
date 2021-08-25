@@ -1,0 +1,12 @@
+What did I work on in the last three days?
+    - I finished the Commands Class
+    - I finished the Man Class
+    - I finished the List Class
+
+What do I plan to work in the next three days?
+    - Adding additional error checking
+    - Adding Java Doc 
+    - Adding comemnts
+
+Am I blocked on anything?
+    - None

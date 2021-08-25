@@ -1,0 +1,10 @@
+Class name: Remove
+Parent Class: Commands
+Subclasses: None 
+
+Responsibilities: 
+*Removes the given directory DIR from FileSystem, as well as its children.
+
+Collaborators:
+*FileSystem
+*PathHandler

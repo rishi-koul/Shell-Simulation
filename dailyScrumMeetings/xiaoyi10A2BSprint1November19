@@ -1,0 +1,9 @@
+What did I work on in the last three days?
+    - implemented first iteration of Remove class
+   
+What do I plan to work in the next three days?
+	- first iteration of Move and Copy classes
+	- change Remove to be able to remove indirect ancestors
+	- perhaps add more functionality to RemoveDirecory eg [..] and [.]
+
+Am I blocked on anything?

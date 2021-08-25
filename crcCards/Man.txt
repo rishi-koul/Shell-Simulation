@@ -1,0 +1,9 @@
+Class name: Man
+Parent Class: Commands
+Subclasses:None
+
+Responsibilities: 
+*Gives a description/manual of the single command given
+
+Collaborators:
+*Commands

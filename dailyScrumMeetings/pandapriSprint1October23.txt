@@ -1,0 +1,10 @@
+What did I work on in the last three days?
+    - Brainstormed ideas for FileSystem class and wrote code for Jshell so that 
+     it continually prompts the user for input. 
+
+What do I plan to work in the next three days?
+    - Start writng base code for Filesystem class
+
+Am I blocked on anything?
+    - Waiting for File and Directory class to be impleted.
+    

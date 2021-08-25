@@ -1,0 +1,11 @@
+What did I work on in the last three days?
+    - implemented first portions of Move and Copy
+   
+What do I plan to work in the next three days?
+	- complete implementation of Move and Copy
+	- change Remove to be able to remove indirect ancestors
+	- change behavior of // input on ChangeDirectory
+	- ensure Exit command is working
+	- upload Directory class update
+
+Am I blocked on anything?

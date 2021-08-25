@@ -1,0 +1,13 @@
+What did I work on in the last three days?
+    - I changed some methodology in the Commands Class
+     (replaced arrays with hashmaps)
+    - Updated the Man Class to get it working
+
+What do I plan to work in the next three days?
+    - Finalize the Commands CLass
+    - Understand FileSystem and how our assignment stores info
+    - Work on the List class
+
+Am I blocked on anything?
+    - How to create an instance of a class when you don't know the name of
+      the class?

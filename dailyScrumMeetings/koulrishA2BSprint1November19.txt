@@ -1,0 +1,10 @@
+What did I work on in the last three days?
+    - Modified the code for MakeDirectory Class
+
+What do I plan to work in the next three days?
+    - Write code for Redirection Class
+    - Write code for Curl Class
+
+Am I blocked on anything?
+    - Still figuring out how to redirect print statements
+    

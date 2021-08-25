@@ -1,0 +1,10 @@
+Class name: FileSystem
+Parent Class: None
+Subclasses: None
+
+Responsibilities:
+*Maintains entire arrangement of Files and Directories  
+
+Collaborators:
+*Directory
+*File

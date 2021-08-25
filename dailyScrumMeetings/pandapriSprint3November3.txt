@@ -1,0 +1,10 @@
+What did I work on in the last three days?
+  - Wrote the code for echo,cat
+
+What do I plan to work in the next three days?
+   - Continuously update JShell with new information.
+   - Make some changes in echo and cat so they work properly
+
+Am I blocked on anything?
+    - None
+    

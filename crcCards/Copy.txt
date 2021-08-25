@@ -1,0 +1,10 @@
+Class name: Copy
+Parent Class: Commands
+Subclasses: None 
+
+Responsibilities: 
+*Copies item from given OLDPATH to NEWPATH
+
+Collaborators:
+*FileSystem
+*PathHandler

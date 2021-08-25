@@ -1,0 +1,100 @@
+
+//Sprint 2 Backlog For 2B.  
+November 23rd to November 30th
+
+
+User Stories from Product Backlog that we will address in this sprint:
+a) As a user I want to be able to redirect the stdout of a command into a file                                                                        
+b) As a user I want to be able to remove a directory from the file system.                                                                                                 
+c) As a user I want to be able to create multiple directories                                                                                                          
+d) As a user I want to be able to print the contents of the a directory, with a new line following each of the content.                                                                                   
+e) As a user I want to be able to move content from a path to a new path                                                                
+f) As a user I want to be able to copy content from a path to a new path                                                                
+g) As a user I want to be able to display content of one or more files                                                                  
+h) As a user I want to be able to retrieve a file from a url                                                                            
+i) As a user I want to be able to print the documentation of one command at a time only                                                 
+j) As a user I want to be able to save the current state of a program into a file                                                      
+k) As a user I want to be able to load the state of a program.                                                                         
+l) As a user I want to be able to search for a directory or file                                                                       
+m) As a user I want to able to print the entire file system. 
+
+Specific tasks to be accomplished:
+
+a-1. (Redirection) Write the base code for the Redirection Class
+a-2. (All) Change any command if required for redirection
+a-3. (Echo) Edit the echo class to use the redirection class and not perform it on its own
+a-4. (RedirectionTest) Write the unit test for Redirection Class 
+a-5. (ChangeDirectoryTest) Write the unit test for ChangeDirectory Class 
+a-6. (CommandsTest) Write the unit test for Command Class
+a-7. (DirectoryTest) Write the unit test for Directory Class
+a-8. (EchoTest) Write the unit test for Echo Class 
+a-9. (ExitTest) Write the unit test for Exit class 
+a-10. (FileTest) Write the unit test for File class
+a-11. (HistoryTest) Write the unit test for History Class 
+a-12. (PopDirectoryTest) Write unit test for PopDirectory Class 
+a-13. (PrintWorkingDirectoryTest) Write the unit test for PrintWorkingDirectory Class 
+a-14. (PushDirectory) Write unit test for PushDirectory Class 
+a-15. (JShell)Write the unit test for JShell
+a-16. (All) Create any new Class required for Testing
+
+b-1. (Remove) Edit the Remove Class if some bugs are found
+b-2. (PathHandler) Edit the pathHandler if required
+b-3. (FileSystem) Edit the FileSystem class if required
+b-4. (RemoveTest) Write the unit test for Remove Class 
+b-5. (PathHandlertTest) Write the unit test for PathHandler Class
+b-6. (FileSystem) Write the unit test for FileSystem Class 
+b-7. (Directory) Edit the Directory class if required.
+
+
+c-1. (MakeDirectory) Edit the MakeDirectory Class if some bug is found
+c-2. (MakeDirectoryTest) Write the unit test for MakeDirectory Class
+
+d-1. (List) Edit the List Class if bugs are found
+d-2. (ListTest) Write the unit test for List Class 
+
+e-1. (Move) Edit the Move Class if bugs are found
+e-2.  (MoveTest) Write the unit test for Move Class 
+
+f-1. (Copy) Edit the Copy Class if bugs are found
+f-2. (CopyTest) Write the unit test for Copy Class 
+
+g-1. (Concatenate) Edit the Concatenate Class if bugs are found
+g-2. (ConcatenateTest) Write the unit test for Concatenate Class  
+
+h-1. (Curl) Edit the Curl Class if some bug is found
+h-2. (CurlTest) Write the unit test for curl class 
+
+i-1. (Man) Edit the Man Class if bugs are found
+i-2. (ManTest) Write the unit test for Man class 
+
+j-1. (SaveJShell) Edit the SaveJShell Class if bugs are found
+j-2. (SaveJShellTest) Write the unit test for SaveJShell Class 
+
+k-1. (LoadJShell) Edit the LoadJShell Class if bugs are found
+k-2. (LoadJShellTest) Write the unit test for LoadJShell Class 
+
+l-1. (Search) Edit the Search Class if bugs are found
+l-2. (SearchTest) Write the unit test for Search class 
+
+m-1. (Tree) Edit the Tree Class if bugs are found
+m-2. (TreeTest) Write the unit test for Tree class 
+
+These tasks are assigned as follows:
+
+User: Rishi
+Tasks: a-1, a-2, c-1, h-1, h-2, c-2, a-4, a-12, a-13, a-14, a-16
+ 
+User: Pritish
+Tasks: a-3, g-1, j-1, k-1, k-2, j-2, g-2, a-8, a-9, a-11, a-10, a-16
+
+User: Sarah
+Tasks: d-1, i-1, l-1, m-1, m-2, l-2, i-2, d-2, a-6, a-15, a-16
+
+User: Ricky
+Tasks: b-1, b-2, b-3, e-1, f-1, f-2, e-2, b-4, b-5, b-6, a-5, a-7, a-16, b-7
+
+
+
+
+
+

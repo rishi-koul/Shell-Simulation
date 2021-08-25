@@ -1,0 +1,12 @@
+Class name: Tree
+Parent Class: Commands
+Subclasses: None
+
+Responsibilities: 
+*Displays the entire file system as a tree
+
+Collaborators:
+*FileSystem
+*Directory
+*File
+*PathHandler

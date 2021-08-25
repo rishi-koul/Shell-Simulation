@@ -1,0 +1,11 @@
+What did I work on in the last three days?
+    - Edit the Concatenate Class to perform new functions
+    - Finished SaveJShell Class
+    - Finished LoadJShell Class
+
+What do I plan to work in the next three days?
+   - Write JUnit test for all commands
+    
+
+Am I blocked on anything?
+    - None
