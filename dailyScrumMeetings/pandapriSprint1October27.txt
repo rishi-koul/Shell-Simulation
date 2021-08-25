@@ -1,0 +1,14 @@
+What did I work on in the last three days?
+    - Wrote code for Jshell so that input is parsed seperately into commands 
+      and argument. 
+    - Added code to display the directory path in Jshell
+    - Modified the getDirectorypath in Directory class to return a string.
+
+What do I plan to work in the next three days?
+    - Continuously update JShell with new information.
+    - On the new classes which i will be assigned in next sprint
+
+Am I blocked on anything?
+    - getDirectorypath() is not returning the proper path have to discuss
+    -
+    

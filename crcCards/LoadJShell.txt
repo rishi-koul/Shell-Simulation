@@ -1,0 +1,11 @@
+Class name: loadJShell
+Parent Class: Commands
+Subclasses: None
+
+Responsibilities: 
+*Has one parameter : [FileName] (name of a file in the current directory)
+*Load the contents of the [FileName]
+*Reinitialize the entire state of system that was saved previously in [FileName]
+
+Collaborators:
+*FileSystem

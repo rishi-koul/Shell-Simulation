@@ -1,0 +1,44 @@
+For Example: 
+
+
+//Sprint 1 Backlog.  
+October 21st to October 27th
+
+
+User Stories from Product Backlog that we will address in this sprint:
+a) As a user I want to execute commands on a prompt.
+b) As a user when I type incorrect command I want an error message to be displayed 
+c) As a user I want to Navigate the contents of the file system
+d) As a user I want to be able to view the description of one or more commands.
+e) As a user I want to be able to quit the program.
+f) As a user I want to able to change directories which may be relative to the current directory or may be a full path.  
+  
+
+Specific tasks to be accomplished:
+a-1. (JShell) Begin coding the structure of the command line interpreter
+a-2. (JShell) Have the shell continually prompt the user for input
+b-1. (JShell) Parse the user input for proper keywords
+c-1. (Directory) Write the base code for the Directory class
+c-2. (File) Write the base code for the File class
+c-3. (FileSystem) Write the base code for the FileSystem class
+d-1. (Command) Write the base for the Command Class
+d-2. (Man) Write the base code for the Man Class
+e-1. (JShell) Quit the loop when exit command is given
+f-1. (ChangeDirectory) Write the base code for ChangeDirectory Class
+
+
+These tasks are assigned as follows:
+
+User: Rishi
+Tasks: c-1, c-2, c-3
+
+User: Pritish
+Tasks: a-1, a-2, c-3
+
+User: Sarah
+Tasks: d-1, b-1, d-2
+
+User: Ricky
+Tasks: e-1, f-1, c-3
+
+

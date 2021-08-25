@@ -1,0 +1,9 @@
+What did I work on in the last three days?
+    - Brainstormed design ideas with team for File and Directory class. 
+
+What do I plan to work in the next three days?
+    - Finish working on the File and Directory Class
+    - Brainstorm ideas for the FileSystem Class and complete it
+
+Am I blocked on anything?
+    - None 

@@ -1,0 +1,11 @@
+What did I work on in the last three days?
+  - Write the base code for the History Class
+
+What do I plan to work in the next three days?
+   - Continuously update JShell with new information.
+   - Write the code for the Echo Class, when the 2nd argument is provided
+   - (Concatenate) Write the base code for Concatenate Class
+
+Am I blocked on anything?
+    - None
+    

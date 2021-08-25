@@ -1,0 +1,12 @@
+Class name: JShell
+Parent Class: None
+Subclasses:None
+
+Responsibilities: 
+*Presents a command line interface that allows you to control your computer
+
+Collaborators:
+*Commands
+*FileSystem
+*Directory
+*History

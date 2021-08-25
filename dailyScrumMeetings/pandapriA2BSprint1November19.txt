@@ -1,0 +1,10 @@
+What did I work on in the last three days?
+    - None I had my midterms, will finish my work soon
+
+What do I plan to work in the next three days?
+    - Edit the Concatenate Class to perform new functions
+    -(SaveJShell) Write the base code for SaveJShell Class
+    -(LoadJShell) Write the base code for LoadJShell Class
+
+Am I blocked on anything?
+    - Still figuring out how to write cat class

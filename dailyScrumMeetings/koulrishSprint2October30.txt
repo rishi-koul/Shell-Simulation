@@ -1,0 +1,14 @@
+What did I work on in the last three days?
+    - Wrote code for MakeDirectory class 
+    - Wrote code for PrintWorkingDirectory Class
+    - Wrote code for Pushd Class
+    - Wrote code for Popd Class
+
+What do I plan to work in the next three days?
+    - Continuously update the update the Directory, File, FileSystem Class if needed
+    - Update JShell to get the above mentioned commands to work for real
+    - Deal with incorrect inputs
+    
+Am I blocked on anything?
+    - None
+    

@@ -1,0 +1,11 @@
+Class name: MakeDirectory
+Parent Class: Commands
+Subclasses: None
+
+Responsibilities: 
+*Creates a directory 
+
+Collaborators:
+*Directory 
+*PathHandler
+*FileSystem

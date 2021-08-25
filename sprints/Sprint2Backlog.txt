@@ -1,0 +1,61 @@
+//Sprint 2 Backlog.  
+October 28th to November 3rd
+
+
+User Stories from Product Backlog that we will address in this sprint:
+a) As a user I want to Navigate the contents of the file system
+b) As a user I want to be able to create two new directories if no errors are encountered    
+c) As a user I want to know where I am within the current directory.   
+d) As a user I want to be able to save my current working directory and change to a new working directory. 
+e) As a user I want to be able to move to the most recently saved directory 
+f) As a user I want to execute commands on a prompt.
+g) As a user I want to be able to print the contents of the current directory, with a new line following each of the content.
+h) As a user I want to be able to print a file 
+i) As a user I want to be able to replace all of a file's content with a string 
+j) As a user I want to be able to view my previous commands, one command per line. 
+k) As a user I want to be able to view the description of one or more commands.
+l) As a user I want to be able to see content of multiple files at once separated by 3 line breaks.
+m) As a user I want to be able to print a string on the shell
+n) As a user I want to able to change directories which may be relative to the current directory or may be a full path. 
+o) As a user I want to be able to append a string to the file's content.  
+p) As a user I want to be able to view the description of one or more commands. 
+ 
+Specific tasks to be accomplished:
+a-1. (Directory) Add new functions if requested by any team-mate
+a-2. (File) Add new functions if requested by any team-mate
+a-3. (FileSystem) Add new functions if requested by any team-mate
+a-4. (crcCards) Modify the crcCards if required
+b-1. (MakeDirectory) Write the base code for Make Directory Class
+c-1. (PrintWorkingDirectory) Write the base code for PrintWorkingDirectory Class
+d-1. (Pushd) Write the base code for the Pushd Class
+e-1. (Popd) Write the base code for the Popd Class
+f-1. (JShell) Write the code to call the MakeDirectory, Pushd, Popd and Pwd Class
+f-2. (JShell)Get the mkdir, pushd, popd and pwd commands working.
+f-3. (JShell) Complete coding the structure of the command line interpreter
+g-1. (List) Write the base code for the List (i.e the ls) Class.
+h-1. (List) Work on the function to print a file in the List Class
+i-1. (Echo) Write the code for the Echo Class, when the 2nd argument is provided
+j-1. (History) Write the base code for the History Class
+k-1. (Command) Write the base for the Command Class
+k-2. (Man) Write the base code for the Man Class
+l-1. (Concatenate) Write the base code for Concatenate Class
+m-1. (Echo) Write the code for the Echo Class, when the 2nd argument is missing
+n-1. (ChangeDirectory) Complete the code for ChangeDirectory Class
+o-1. (Echo) Write the code for Echo Class when argument contains ">>"
+
+
+These tasks are assigned as follows:
+
+User: Rishi
+Tasks: a-1, a-2, a-3, a-4, b-1, d-1, e-1, c-1, f-1, f-2
+
+User: Pritish
+Tasks: a-1, a-2, a-3, a-4, f-3, i-1, j-1, l-1
+
+User: Sarah
+Tasks: a-1, a-2, a-3, a-4, k-1, k-2, g-1, h-1
+
+User: Ricky
+Tasks: a-1, a-2, a-3, a-4, n-1, o-1, m-1
+
+

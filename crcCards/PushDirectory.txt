@@ -1,0 +1,11 @@
+Class name: PushDirectory
+Parent Class: Commands
+Subclasses: None
+
+Responsibilities: 
+*Changes current working directory to the one user entered
+
+Collaborators:
+*FileSystem
+*Directory
+*PathHandler

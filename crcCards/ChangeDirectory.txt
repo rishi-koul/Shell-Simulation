@@ -1,0 +1,10 @@
+Class name: ChangeDirectory
+Parent Class: Commands
+Subclasses: None 
+
+Responsibilities: 
+*Changes the current directory to the given directory DIR
+
+Collaborators:
+*FileSystem
+*PathHandler

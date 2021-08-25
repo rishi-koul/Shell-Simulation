@@ -1,0 +1,12 @@
+Class name: Commands
+Parent Class: None
+Subclasses: ChangeDirectory,Concatenate,Copy,Curl,Echo,Exit,History,List,
+MakeDirectory,Man,Move,PopDirectory,PrintWorkingDirectory,PushDirectory,
+Remove,SaveJShell,Search,Tree
+
+Responsibilities: 
+*Opens the correct class given in user arguments
+
+Collaborators:
+*FileSystem
+*Redirection

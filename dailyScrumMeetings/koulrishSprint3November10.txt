@@ -1,0 +1,17 @@
+What did I work on in the last three days?
+    - Wrote the javadocs for MakeDirectory Class
+    - Wrote the javadocs for PrintWorkingDirectory Class
+    - Wrote the javadocs for Pushd Class
+    - Wrote the javadocs for Popd Class
+    - Wrote the javadocs for FileSystem Class
+    - Wrote the javadocs for Directory Class
+    - Wrote the javadocs for File Class
+    - Wrote the javadocs for PathHandler Class
+    - Wrote the honor code for all clases
+
+What do I plan to work in the next three days?
+    - Nothing
+    
+Am I blocked on anything?
+    - None
+    

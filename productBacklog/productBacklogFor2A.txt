@@ -1,0 +1,51 @@
+userStories
+
+Syntax: As a <role> I want <goal/desire> so that <benefit>                                                                              TIME
+
+1) As a user when I type incorrect command I want an error message to be displayed                                                     30mins              
+  
+2) As a user I want to be able to quit the program.                                                                                    10mins                                    
+  
+3) As a user I want to be able to create two new directories if no errors are encountered                                               1 day
+
+4) As a user I want to able to change directories which may be relative to the current directory or may be a full path.                 1 day                                   
+
+5) As a user I want to be able to print the contents of the current directory, with a new line following each of the content.           1 day
+
+6) As a user I want to be able to print a file                                                                                          2 days
+
+7) As a user I want to know where I am within the current directory.                                                                    1 day
+ 
+8) As a user I want to be able to save my current working directory and change to a new working directory.                              3 days
+
+9) As a user I want to be able to move to the most recently saved directory                                                             1 day
+
+10) As a user I want to be able to view my previous commands, one command per line.                                                     1 day
+
+11) As a user I want to be able to see content of multiple files at once separated by 3 line breaks.                                    2 days
+
+12) As a user I want to be able to print a string on the shell                                                                          1hr
+
+13) As a user I want to be able to replace all of a file's content with a string                                                        2 days
+
+14) As a user I want to be able to append a string to the file's content.                                                               2 days
+
+15) As a user I want to be able to view the description of one or more commands.                                                        1 day
+
+16) As a user I want to execute commands on a prompt.                                                                                   2-3hrs
+
+17) As a user I want to Navigate the contents of the file system                                                                        3 days
+
+18) As an user, I would like to be able to see what directories there are                                                               2 days
+
+
+     
+
+     
+ 
+     
+
+
+
+
+

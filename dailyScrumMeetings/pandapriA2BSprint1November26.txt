@@ -1,0 +1,10 @@
+What did I work on in the last three days?
+    - Wrote JUnit test for echo and history
+
+What do I plan to work in the next three days?
+   - Write JUnit test for remaining cmds
+   - Write java docs
+   - Make CRC cards for load and Save jshell
+
+Am I blocked on anything?
+    - None

@@ -1,0 +1,12 @@
+What did I work on in the last three days?
+    - Made ChangeDirectory Class
+    - Considered how the directory structure and current directory would be
+    stored
+
+What do I plan to work in the next three days?
+    - Discuss with team on design specifics moving forward
+    - especially those of FileSystem class
+
+Am I blocked on anything?
+    - Specifics of data structure
+    - Where to implement certain validations and outputs

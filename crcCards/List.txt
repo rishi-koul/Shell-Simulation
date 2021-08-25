@@ -1,0 +1,13 @@
+Class name: List
+Parent Class: Commands
+Subclasses: None
+
+Responsibilities: 
+*Prints what is within current or given directory, and also has the option to 
+recursively list all subdirectories 
+
+Collaborators:
+*FileSystem
+*Directory
+*File
+*PathHandler

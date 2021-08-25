@@ -1,0 +1,9 @@
+What did I work on in the last three days?
+    - Wrote the code for curl class
+
+What do I plan to work in the next three days?
+    - Write code for Redirection Class
+
+Am I blocked on anything?
+    - Still figuring out how to redirect print statements
+    

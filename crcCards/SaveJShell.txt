@@ -1,0 +1,12 @@
+Class name: saveJShell
+Parent Class: Commands
+Subclasses: None
+
+Responsibilities: 
+*Has one parameter : FILE (name of a file in the current directory)
+*Saves the session of the JShell.
+*Saves the entire mock FileSystem including any state in the [FILE] provided by the user
+
+Collaborators:
+*FileSystem
+*History

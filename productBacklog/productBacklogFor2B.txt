@@ -1,0 +1,41 @@
+userStories
+
+Syntax: As a <role> I want <goal/desire> so that <benefit>                                                                              TIME
+
+1) As a user I want to be able to redirect the stdout of a command into a file                                                          2 days             
+  
+2) As a user I want to be able to remove a directory from the file system.                                                              2 days                                    
+  
+3) As a user I want to be able to create multiple directories                                                                           1 day                                
+
+4) As a user I want to be able to print the contents of the a directory, with a new line following each of the content.                 1 day
+                                                                  
+5) As a user I want to be able to move content from a path to a new path                                                                2 days
+
+6) As a user I want to be able to copy content from a path to a new path                                                                2 days
+
+7) As a user I want to be able to display content of one or more files                                                                  1 day
+
+8) As a user I want to be able to retrieve a file from a url                                                                            2 days
+
+9) As a user I want to be able to print the documentation of one command at a time only                                                 1 hr
+
+10) As a user I want to be able to save the current state of a program into a file                                                      1 day
+
+11) As a user I want to be able to load the state of a program.                                                                         2 days
+
+12) As a user I want to be able to search for a directory or file                                                                       1 day
+
+13) As a user I want to able to print the entire file system.                                                                           2 days
+
+
+     
+
+     
+ 
+     
+
+
+
+
+

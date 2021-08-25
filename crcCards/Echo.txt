@@ -1,0 +1,11 @@
+Class name: Echo
+Parent Class: Commands
+Subclasses: None
+
+Responsibilities: 
+*Copies string into a file 
+
+Collaborators:
+* History
+* Redirection
+* FileSystem

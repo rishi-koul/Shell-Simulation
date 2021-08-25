@@ -1,0 +1,55 @@
+
+//Sprint 1 Backlog For 2B.  
+November 16th to November 22nd
+
+
+User Stories from Product Backlog that we will address in this sprint:
+a) As a user I want to be able to redirect the stdout of a command into a file                                                                        
+b) As a user I want to be able to remove a directory from the file system.                                                                                                 
+c) As a user I want to be able to create multiple directories                                                                                                          
+d) As a user I want to be able to print the contents of the a directory, with a new line following each of the content.                                                                                   
+e) As a user I want to be able to move content from a path to a new path                                                                
+f) As a user I want to be able to copy content from a path to a new path                                                                
+g) As a user I want to be able to display content of one or more files                                                                  
+h) As a user I want to be able to retrieve a file from a url                                                                            
+i) As a user I want to be able to print the documentation of one command at a time only                                                 
+j) As a user I want to be able to save the current state of a program into a file                                                      
+k) As a user I want to be able to load the state of a program.                                                                         
+l) As a user I want to be able to search for a directory or file                                                                       
+m) As a user I want to able to print the entire file system. 
+
+Specific tasks to be accomplished:
+a-1. (Command) Edit the command class to work for all new commands
+a-2. (PathHandler) Edit the PathHandler Class to accept path of form "../../dirName"
+a-3. (Redirection) Write the base code for the Redirection Class
+b-1. (Remove) Write the base code for the Remove Class
+b-2. (PathHandler) Edit the pathHandler if required
+b-3. (FileSystem) Edit the FileSystem class if required
+c-1. (MakeDirectory) Edit the MakeDirectory Class to create multiple directories
+d-1. (List) Edit the List Class to perform new functions
+e-1. (Move) Write the base code for the Move Class
+f-1. (Copy) Write the base code for the Copy Class
+g-1. (Concatenate) Edit the Concatenate Class to perform new functions
+h-1. (Curl) Write the base code for the Curl Class
+i-1. (Man) Edit the Man Class to accept only 1 argument
+j-1. (SaveJShell) Write the base code for SaveJShell Class
+k-1. (LoadJShell) Write the base code for LoadJShell Class
+l-1. (Search) Write the base code for the Search Class
+m-1. (Tree) Write the base code for the Tree Class
+
+
+These tasks are assigned as follows:
+
+User: Rishi
+Tasks: a-1, a-2, a-3, c-1, h-1 
+ 
+User: Pritish
+Tasks: g-1, j-1, k-1
+
+User: Sarah
+Tasks: d-1, i-1, l-1, m-1
+
+User: Ricky
+Tasks: b-1, b-2, b-3, e-1, f-1
+
+

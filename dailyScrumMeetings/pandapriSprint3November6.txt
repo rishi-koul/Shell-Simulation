@@ -1,0 +1,12 @@
+What did I work on in the last three days?
+    - Made Echo and Concatenate class work for full and relative paths properly
+    - UPdated code for history class in order to avoid the program to crash
+    - Updated code in some classes as per feedback in demo
+What do I plan to work in the next three days?
+    - Continuously update the update the Cat and Echo class if needed
+    - Write the java docs for all the classes I have worked on
+    - Edit the crcCards 
+
+Am I blocked on anything?
+    -
+    

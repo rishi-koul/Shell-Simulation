@@ -1,0 +1,10 @@
+Class name: Move
+Parent Class: Commands
+Subclasses: None 
+
+Responsibilities: 
+*Moves item from given OLDPATH to NEWPATH
+
+Collaborators:
+*FileSystem
+*PathHandler

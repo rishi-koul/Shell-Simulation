@@ -1,0 +1,61 @@
+//Sprint 3 Backlog.  
+November 4th to November 10th
+
+
+User Stories from Product Backlog that we will address in this sprint:
+a) As a user I want to Navigate the contents of the file system
+b) As a user I want to be able to create two new directories if no errors are encountered    
+c) As a user I want to know where I am within the current directory.   
+d) As a user I want to be able to save my current working directory and change to a new working directory. 
+e) As a user I want to be able to move to the most recently saved directory 
+f) As a user I want to execute commands on a prompt.
+g) As a user I want to be able to print the contents of the current directory, with a new line following each of the content.
+h) As a user I want to be able to print a file 
+i) As a user I want to be able to replace all of a file's content with a string 
+j) As a user I want to be able to view my previous commands, one command per line. 
+k) As a user I want to be able to view the description of one or more commands.
+l) As a user I want to be able to see content of multiple files at once separated by 3 line breaks.
+m) As a user I want to be able to print a string on the shell
+n) As a user I want to able to change directories which may be relative to the current directory or may be a full path. 
+o) As a user I want to be able to append a string to the file's content.  
+p) As a user I want to be able to view the description of one or more commands. 
+ 
+Specific tasks to be accomplished:
+a-1. (Directory) Make some changes if required during testing
+a-2. (File) Make some changes if required during testing
+a-3. (FileSystem) Make some changes if required during testing
+a-4. (crcCards) Modify the crcCards if required
+a-5.  Organize the files in different packages if required
+b-1. (MakeDirectory) Make some changes if required during testing
+b-2. (PathHandler) Create a PathHandler class to handle full and relative paths
+c-1. (PrintWorkingDirectory) Make some changes if required during testing
+d-1. (Pushd) Make some changes if required during testing
+e-1. (Popd) Make some changes if required during testing
+f-1. (JShell) Make some changes if required during testing
+g-1. (List) Make some changes if required during testing
+h-1. (List) Make some changes if required during testing
+i-1. (Echo) Make some changes if required during testing in the Echo Class, when the 2nd argument is provided
+j-1. (History) Make some changes if required during testing
+k-1. (Command) Make some changes if required during testing
+k-2. (Man) Make some changes if required during testing
+l-1. (Concatenate) Make some changes if required during testing
+m-1. (Echo) Make some changes if required during testing in the Echo Class,, when the 2nd argument is missing
+n-1. (ChangeDirectory) Make some changes if required during testing
+o-1. (Echo) Make some changes if required during testing in the Echo Class, when argument contains ">>"
+
+
+These tasks are assigned as follows:
+
+User: Rishi
+Tasks: a-1, a-2, a-3, a-4, a-5, f-1, b-1, b-2, c-1, d-1, e-1
+
+User: Pritish
+Tasks: a-1, a-2, a-3, a-4, f-1, i-1, m-1, i-1, j-1, l-1
+
+User: Sarah
+Tasks: a-1, a-2, a-3, a-4, f-1, k-1, k-2, g-1, h-1
+
+User: Ricky
+Tasks: a-1, a-2, a-3, a-4, f-1, n-1, o-1
+
+

@@ -1,0 +1,10 @@
+Class name: Concatenate
+Parent Class: Commands
+Subclasses: None
+
+Responsibilities: 
+*Opens a file and displays its contents
+
+Collaborators:
+*FileSystem
+*File

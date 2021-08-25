@@ -1,0 +1,12 @@
+Class name: Search
+Parent Class: Commands
+Subclasses: None
+
+Responsibilities: 
+*Searches for file or directory as per the path/s given
+
+Collaborators:
+*FileSystem
+*Directory
+*File
+*PathHandler

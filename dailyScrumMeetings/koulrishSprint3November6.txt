@@ -1,0 +1,12 @@
+What did I work on in the last three days?
+    - Made MakeDirectory class work for full and relative paths properly
+    - Made Pushd class work for full and relative paths properly
+
+What do I plan to work in the next three days?
+    - Continuously update the update the Directory, File, FileSystem Class if needed
+    - Write the java docs for all the classes I have worked on
+    - Edit the crcCards 
+
+Am I blocked on anything?
+    - Don't know how to deal with parts of form "../../../dirName"
+    
